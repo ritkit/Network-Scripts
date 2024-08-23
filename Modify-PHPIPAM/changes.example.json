@@ -1,0 +1,19 @@
+{
+    "server":{
+        "url":"https://phpipam.example.com",
+        "app": "app",
+        "timeout": 30
+    },
+    "actions":{
+        "delete_old_ap_ips":{
+            "file":"delete.example.csv",
+            "controller":"addresses",
+            "function": "delete"
+        },
+        "create_aps_ips":{
+            "file":"create.example.csv",
+            "controller":"addresses",
+            "function":"update"
+        }
+    }
+}

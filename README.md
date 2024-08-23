@@ -4,9 +4,3 @@ Personal Network Scripts used by me. Will include a variety of vendor specific o
 # Current Vendors or Tasks
 Cisco
 - IP Phone inventory
-
-Palo Alto
-- Panorama Duplicate and Cleanup Policy Script
-
-
-

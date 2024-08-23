@@ -1,0 +1,4 @@
+id,ip,is_gateway,hostname,description,tag
+,192.168.10.1,yes,gateway,use this for routing,used
+,192.168.9.5,no,user1,user 1 on subnet,used
+,192.168.9.6,no,user2(future),future reserved ip for user,reserved
